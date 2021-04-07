@@ -3,7 +3,7 @@ oh-my-zsh_custom
 
 This repo verions [oh-my-zsh][] custom directory ($HOME/.oh-my-zsh/custom/) taking inspiration from [oh-my-zsh-custom][]
 
-[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
+[oh-my-zsh]: https://github.com/ohmyzsh/ohmyzsh/
 [oh-my-zsh-custom]: https://github.com/nishigori/oh-my-zsh-custom
 
 Usage
